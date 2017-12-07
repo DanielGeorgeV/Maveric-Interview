@@ -1,0 +1,8 @@
+<suite name="MavericInterview">
+	<test name="Test">
+		<classes>
+			<class name="Login.LoginTest">
+			</class>
+		</classes>
+	</test>
+</suite>
